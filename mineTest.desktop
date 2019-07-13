@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Version=1.0
+Name=MineTest
+Comment=Моя версия 2d майнкрафта
+Icon=/usr/share/pixmaps/minecraft-pi.png
+Exec=/home/pi/openGL/testGame/mineTest
+Terminal=True
+MimeType=
+Categories=Application;Game;
+StartupNotify=true
